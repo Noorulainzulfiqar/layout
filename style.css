@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+padding: 0px;
+}
+.container{
+    display: block;
+    background-color:rgb(205, 219, 219);
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+}
+.container2{
+    display: block;
+    background-color:rgb(205, 219, 219);
+    height: 30px;
+    text-align: center;
+    padding: 10px;
+}
+.container3{
+    display: block;
+    background-color: rgb(205, 219, 219);
+    height: 30px;
+    padding: 10px;
+    text-align: center;
+}
+.containers1{
+    display: inline-block;
+    background-color: rgb(205, 219, 219) ;
+    width: 20%;
+    height:400px ;
+    text-align: center;
+    padding: 10px;
+
+}
+div{
+margin: 5px;
+}
+.containers2{
+    width: 50%;
+   background-color: rgb(205, 219, 219);
+    display: inline-block;
+    height: 400px;
+    text-align: center;
+    padding: 10px;
+}
+
+    
+
+
+
+
